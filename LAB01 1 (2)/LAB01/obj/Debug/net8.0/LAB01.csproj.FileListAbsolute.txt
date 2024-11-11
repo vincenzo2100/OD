@@ -1,0 +1,14 @@
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\bin\Debug\net8.0\LAB01.exe
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\bin\Debug\net8.0\LAB01.deps.json
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\bin\Debug\net8.0\LAB01.runtimeconfig.json
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\bin\Debug\net8.0\LAB01.dll
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\bin\Debug\net8.0\LAB01.pdb
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\LAB01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\LAB01.AssemblyInfoInputs.cache
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\LAB01.AssemblyInfo.cs
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\LAB01.csproj.CoreCompileInputs.cache
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\LAB01.dll
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\refint\LAB01.dll
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\LAB01.pdb
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\LAB01.genruntimeconfig.cache
+C:\Users\SAS\Desktop\Notatki\OD\LAB01\obj\Debug\net8.0\ref\LAB01.dll
